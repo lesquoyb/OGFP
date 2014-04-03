@@ -1,0 +1,1 @@
+Le programme fonctionne, seulement il faut modifier le build path afin d'ajouter les ".jar" contenus dans le dossier jdom-2.0.5 .

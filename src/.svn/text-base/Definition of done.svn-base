@@ -1,0 +1,6 @@
+Definition of done:
+	- compilé sans erreur et commité
+	- le programme entier s'execute sans problème  
+	- au moins les fonctionnalités ajoutés + le fonctionnement standard ont été testé en execution
+	- tous les tests unitaires fonctionnent toujours
+	- standards de syntaxe respectés (camelCase, majuscules aux noms de classes ...)

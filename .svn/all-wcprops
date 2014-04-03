@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/!svn/ver/33/moa/trunk
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/8/moa/trunk/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/114/moa/trunk/.classpath
+END
+OGFP.jar
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/216/moa/trunk/OGFP.jar
+END

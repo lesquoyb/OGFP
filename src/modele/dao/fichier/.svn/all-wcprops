@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/210/moa/trunk/src/modele/dao/fichier
+END
+testEcriturePaie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/198/moa/trunk/src/modele/dao/fichier/testEcriturePaie.xml
+END
+testLecturePaie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/200/moa/trunk/src/modele/dao/fichier/testLecturePaie.xml
+END
+testEcritureRegleXML
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/105/moa/trunk/src/modele/dao/fichier/testEcritureRegleXML
+END
+testLectureRegleXML
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/105/moa/trunk/src/modele/dao/fichier/testLectureRegleXML
+END
+paie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/210/moa/trunk/src/modele/dao/fichier/paie.xml
+END
+testLectureCotisationXML
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/105/moa/trunk/src/modele/dao/fichier/testLectureCotisationXML
+END
+cotisations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/203/moa/trunk/src/modele/dao/fichier/cotisations.xml
+END
+testEcritureCotisationXML
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/105/moa/trunk/src/modele/dao/fichier/testEcritureCotisationXML
+END
+regles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/203/moa/trunk/src/modele/dao/fichier/regles.xml
+END

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeCotisations>
+  <cotisation nom="Nom23" taux="0.1" />
+  <cotisation nom="Nom1" taux="0.3" />
+</listeCotisations>

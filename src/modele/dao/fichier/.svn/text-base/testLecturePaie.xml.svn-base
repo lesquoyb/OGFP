@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listePaie>
+	  <fichepaie>
+	    <employe nom="baptiste" prenom="lesquoy" statut="maitre du monde" salaireBrut="9.9999999999E8" salaireNet="9.9999999999E8" />
+	    <cotisations>
+	      <cotisation taux="0.5" nom="taxe au pif" />
+	    </cotisations>
+	    <regles>
+	      <regle Action="bar=600.0" Condition="Net&lt;1000" />
+	    </regles>
+	  </fichepaie>
+  </listePaie>

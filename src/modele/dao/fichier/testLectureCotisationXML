@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listeCotisations>
+  <cotisation nom="Retraite" taux="0.2" />
+</listeCotisations>

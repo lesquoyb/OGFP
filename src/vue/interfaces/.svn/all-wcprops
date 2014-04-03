@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/210/moa/trunk/src/vue/interfaces
+END
+IPrincipale.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/202/moa/trunk/src/vue/interfaces/IPrincipale.java
+END
+ISaisieCotisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/173/moa/trunk/src/vue/interfaces/ISaisieCotisation.java
+END
+IModelTableRegle.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/200/moa/trunk/src/vue/interfaces/IModelTableRegle.java
+END
+IPanneauRegle.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/177/moa/trunk/src/vue/interfaces/IPanneauRegle.java
+END
+ISaisieBrut.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/202/moa/trunk/src/vue/interfaces/ISaisieBrut.java
+END
+INet.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/205/moa/trunk/src/vue/interfaces/INet.java
+END
+IFichePaie.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/200/moa/trunk/src/vue/interfaces/IFichePaie.java
+END
+IModelTableCotisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/200/moa/trunk/src/vue/interfaces/IModelTableCotisation.java
+END
+IComparaison.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/210/moa/trunk/src/vue/interfaces/IComparaison.java
+END

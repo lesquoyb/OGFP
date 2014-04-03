@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/119/moa/trunk/jdom-2.0.5
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/119/moa/trunk/jdom-2.0.5/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/119/moa/trunk/jdom-2.0.5/LICENSE.txt
+END
+jdom-2.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/119/moa/trunk/jdom-2.0.5/jdom-2.0.5.jar
+END
+jdom-2.0.5-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/119/moa/trunk/jdom-2.0.5/jdom-2.0.5-junit.jar
+END
+jdom-2.0.5-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/119/moa/trunk/jdom-2.0.5/jdom-2.0.5-javadoc.jar
+END
+jdom-2.0.5-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/119/moa/trunk/jdom-2.0.5/jdom-2.0.5-sources.jar
+END
+jdom-2.0.5-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/119/moa/trunk/jdom-2.0.5/jdom-2.0.5-contrib.jar
+END

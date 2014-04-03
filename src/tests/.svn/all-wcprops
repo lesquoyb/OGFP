@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/206/moa/trunk/src/tests
+END
+TestOperateur.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/140/moa/trunk/src/tests/TestOperateur.java
+END
+TestCalculNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/143/moa/trunk/src/tests/TestCalculNet.java
+END
+TestDAORegle.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/140/moa/trunk/src/tests/TestDAORegle.java
+END
+TestDAOPaie.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/198/moa/trunk/src/tests/TestDAOPaie.java
+END
+TestRegle.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/136/moa/trunk/src/tests/TestRegle.java
+END
+TestCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/140/moa/trunk/src/tests/TestCondition.java
+END
+TestAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/140/moa/trunk/src/tests/TestAction.java
+END
+TestListeCotisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/140/moa/trunk/src/tests/TestListeCotisation.java
+END
+TestListeRegle.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/140/moa/trunk/src/tests/TestListeRegle.java
+END
+TestEmploye.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/206/moa/trunk/src/tests/TestEmploye.java
+END
+TestCtrlCalculNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/158/moa/trunk/src/tests/TestCtrlCalculNet.java
+END
+TestDAOCotisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/140/moa/trunk/src/tests/TestDAOCotisation.java
+END
+TestBrut.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/99/moa/trunk/src/tests/TestBrut.java
+END
+TestListeVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/140/moa/trunk/src/tests/TestListeVariable.java
+END

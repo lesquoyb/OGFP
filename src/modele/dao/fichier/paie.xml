@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listePaie>
+  <fichepaie>
+    <employe nom="lesquoy" prenom="baptiste" statut="cadre" salaireBrut="100.0" salaireNet="90.0" />
+    <cotisations>
+      <cotisation taux="0.15" nom="retraite" />
+      <cotisation taux="0.0" nom="Nom" />
+    </cotisations>
+    <regles>
+      <regle Action="retraite=0.1" Condition="statut=cadre" />
+      <regle Action="Test=0.0" Condition="&lt;=" />
+    </regles>
+  </fichepaie>
+</listePaie>
